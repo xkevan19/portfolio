@@ -22,6 +22,8 @@ wordpress elementor to build websites for clients.
 
 Finally, I am studying a Diploma in Computing.
 # Experience
+Web Developer ( currently )
+
 Sale Representative at two stores locally ( Trinidad & Tobago )
 
 Technician ( Air Conditioning units )
